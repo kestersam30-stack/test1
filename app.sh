@@ -11,3 +11,4 @@ sum=$((a + b))
 echo "Sum: $sum"
 
 
+echo "Temporary debug"
